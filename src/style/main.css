@@ -1,0 +1,31 @@
+inline-block{
+    display: inline-block;
+}
+inline{
+    display: inline;
+}
+.absolute{
+    position: absolute;
+}
+.relative{
+    position: relative;
+}
+
+.flex{
+    display: flex;
+}
+.f-d-r{
+    flex-direction: row;
+}
+.f-d-c{
+    flex-direction: column;
+}
+.flex1{
+    flex: 1;
+}
+.a-i-c{
+    align-items: center;
+}
+.j-c-c{
+    justify-content: center;
+}
